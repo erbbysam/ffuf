@@ -10,6 +10,7 @@
 * [Damian89](https://github.com/Damian89)
 * [Daviey](https://github.com/Daviey)
 * [delic](https://github.com/delic)
+* [erbbysam](https://github.com/erbbysam)
 * [eur0pa](https://github.com/eur0pa)
 * [fabiobauer](https://github.com/fabiobauer)
 * [fang0654](https://github.com/fang0654)
@@ -32,4 +33,3 @@
 * [Shaked](https://github.com/Shaked)
 * [SolomonSklash](https://github.com/SolomonSklash)
 * [l4yton](https://github.com/l4yton)
-* [erbbysam](https://github.com/erbbysam)
